@@ -22,7 +22,7 @@ We evaluate the impact of **Gaussian noise injection** on improving model robust
 
 ---
 
-## ⚡ Installation
+## Installation
 ```bash
 git clone https://github.com/yourusername/video_classification.git
 cd video_classification
