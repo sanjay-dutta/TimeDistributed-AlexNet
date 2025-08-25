@@ -1,6 +1,6 @@
 # TimeDistributed AlexNet for Video Classification with Gaussian Noise Injection
 
-This repository contains the official implementation of our **TimeDistributed AlexNet** model for classroom activity recognition.  
+This repository contains the implementation of our **TimeDistributed AlexNet** model for classroom activity recognition.  
 We evaluate the impact of **Gaussian noise injection** on improving model robustness and generalization.
 
 ---
