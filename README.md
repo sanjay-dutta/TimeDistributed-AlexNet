@@ -5,7 +5,7 @@ We evaluate the impact of **Gaussian noise injection** on improving model robust
 
 ---
 
-## 📂 Dataset Structure
+# Dataset Structure
 ClassroomActivity/
 ├── Arguing/
 ├── Eating_in_classroom/
